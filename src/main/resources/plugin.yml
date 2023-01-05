@@ -1,0 +1,12 @@
+name: TTY
+version: '${project.version}'
+main: snaxerl.tty.TTY
+api-version: 1.19
+commands:
+    TTY:
+    Befehle:
+
+
+
+
+
